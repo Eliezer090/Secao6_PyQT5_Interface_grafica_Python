@@ -3,7 +3,7 @@ Nesta parte do curso foi relativemnte pequena pois foi passado só a parte de in
 <img src="https://img-c.udemycdn.com/course/240x135/2411816_3802_4.jpg" width="300" title="Capa do curso">
 
 # Aulas
-153. Instalação e primeiro contato com PyQT5
+153. Instalação e primeiro contato com PyQT5<br>
 154. Criando uma calculadora com PyQT5
 
 # Links
